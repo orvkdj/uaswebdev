@@ -30,7 +30,7 @@ export const HeroSection = () => {
           </div>
 
           <p className="max-w-screen-sm mx-auto text-xl text-muted-foreground">
-            {`We're more than just a tool, we're a community of passionate
+            {`We're more than just a tool123, we're a community of passionate
             creators. Get access to exclusive resources, tutorials, and support.`}
           </p>
 
