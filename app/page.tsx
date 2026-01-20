@@ -49,10 +49,8 @@ export default function Home() {
       <ServicesSection />
       <TestimonialSection />
       <TeamSection />
-      <CommunitySection />
       <PricingSection />
       <ContactSection />
-      <FAQSection />
       <FooterSection />
     </>
   );

@@ -10,40 +10,40 @@ interface FeaturesProps {
 
 const featureList: FeaturesProps[] = [
   {
-    icon: "TabletSmartphone",
-    title: "Mobile Friendly",
+    icon: "LibraryBig",
+    title: "Music Library",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. A odio velit cum aliquam, consectetur.",
+      "Kelola dan akses seluruh koleksi musik favoritmu dalam satu tempat terorganisir.",
   },
   {
-    icon: "BadgeCheck",
-    title: "Social Proof",
+    icon: "AudioWaveform",
+    title: "Sound Waves",
     description:
-      "Lorem ipsum dolor sit amet consectetur. Natus consectetur, odio ea accusamus aperiam.",
+      "Visualisasi audio yang hidup untuk pengalaman mendengarkan yang lebih ekspresif.",
   },
   {
-    icon: "Goal",
-    title: "Targeted Content",
+    icon: "Music",
+    title: "Music Playback",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. odio ea accusamus aperiam.",
+      "Nikmati pemutaran musik yang stabil, jernih, dan mudah dikendalikan.",
   },
   {
-    icon: "PictureInPicture",
-    title: "Strong Visuals",
+    icon: "MicVocal",
+    title: "Vocal Focus",
     description:
-      "Lorem elit. A odio velit cum aliquam. Natus consectetur dolores, odio ea accusamus aperiam.",
+      "Sorot kualitas vokal dan detail suara artis favoritmu.",
   },
   {
-    icon: "MousePointerClick",
-    title: "Clear CTA",
+    icon: "Activity",
+    title: "Music Activity",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing. odio ea accusamus consectetur.",
+      "Pantau kebiasaan dan aktivitas mendengarkan musikmu secara real-time.",
   },
   {
-    icon: "Newspaper",
-    title: "Clear Headline",
+    icon: "RefreshCcw",
+    title: "Device Sync",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. A odio velit cum aliquam. Natus consectetur.",
+      "Sinkronisasi akun dan playlist di berbagai perangkat.",
   },
 ];
 
@@ -51,17 +51,15 @@ export const FeaturesSection = () => {
   return (
     <section id="features" className="container py-24 sm:py-32">
       <h2 className="text-lg text-primary text-center mb-2 tracking-wider">
-        Features
+        Fitur
       </h2>
 
       <h2 className="text-3xl md:text-4xl text-center font-bold mb-4">
-        What Makes Us Different
+        Where music meets mood.
       </h2>
 
       <h3 className="md:w-1/2 mx-auto text-xl text-center text-muted-foreground mb-8">
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem
-        fugiat, odit similique quasi sint reiciendis quidem iure veritatis optio
-        facere tenetur.
+        Setiap detail dikembangkan agar pengalaman terasa lebih personal, intuitif, dan berkesan.
       </h3>
 
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
