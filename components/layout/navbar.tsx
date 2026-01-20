@@ -174,11 +174,7 @@ export const Navbar = () => {
         <Button asChild size="sm" variant="ghost" aria-label="View on GitHub">
           <Link
             aria-label="View on GitHub"
-<<<<<<< HEAD
             href="https://github.com/orvkdj/uaswebdev"
-=======
-            href="https://github.com/orvkdj/uaswebdev.git"
->>>>>>> fff561b3a22c335060152becf87eda5403e33e21
             target="_blank"
           >
             <Github className="size-5" />
