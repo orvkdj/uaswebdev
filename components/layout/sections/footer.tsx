@@ -67,12 +67,6 @@ export const FooterSection = () => {
 
             <div>
               <Link href="#" className="opacity-60 hover:opacity-100">
-                FAQ
-              </Link>
-            </div>
-
-            <div>
-              <Link href="#" className="opacity-60 hover:opacity-100">
                 Feedback
               </Link>
             </div>
@@ -83,12 +77,6 @@ export const FooterSection = () => {
             <div>
               <Link href="#" className="opacity-60 hover:opacity-100">
                 Twitch
-              </Link>
-            </div>
-
-            <div>
-              <Link href="#" className="opacity-60 hover:opacity-100">
-                Discord
               </Link>
             </div>
 

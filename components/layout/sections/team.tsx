@@ -24,13 +24,13 @@ interface SocialNetworkProps {
 export const TeamSection = () => {
   const teamList: TeamProps[] = [
     {
-      imageUrl: "https://i.pravatar.cc/250?img=58",
+      imageUrl: "/Avatars/instagram.png",
       firstName: "Leo",
       lastName: "Miranda",
-      positions: ["Vue Fronted Developer", "Creator Of This Website"],
+      positions: ["Nikmati karya-karya terbaik Raisa yang menghadirkan pop elegan dengan emosi yang hangat dan personal."],
       socialNetworks: [
         {
-          name: "LinkedIn",
+          name: "InstagramIcon",
           url: "https://www.linkedin.com/in/leopoldo-miranda/",
         },
         {
