@@ -10,28 +10,28 @@ interface BenefitsProps {
 
 const benefitList: BenefitsProps[] = [
   {
-    icon: "Blocks",
-    title: "Build Brand Trust",
+    icon: "Sparkles",
+    title: "Personal Experience",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. A odio velit cum aliquam. Natus consectetur dolores.",
+      "Musik yang diputar menyesuaikan suasana dan kebiasaan mendengarkanmu",
   },
   {
-    icon: "LineChart",
-    title: "More Leads",
+    icon: "Sparkles",
+    title: "Focused listening",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. A odio velit cum aliquam, natus consectetur.",
+      "Nikmati musik tanpa gangguan iklan atau distraksi berlebihan. Fokus tetap terjaga pada kualitas audio dan emosi lagu",
   },
   {
-    icon: "Wallet",
-    title: "Higher Conversions",
+    icon: "Sparkles",
+    title: "Effortless Discovery",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus consectetur. A odio velit cum aliquam",
+      "Temukan musik baru tanpa perlu mencari secara manual. Rekomendasi disajikan secara kurasi dan konsisten",
   },
   {
-    icon: "Sparkle",
-    title: "Test Marketing Ideas",
+    icon: "Sparkles",
+    title: "Seamless Access",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. A odio velit cum aliquam. Natus consectetur dolores.",
+      "Akses musik kapan saja dan di berbagai perangkat. Pengalaman tetap sinkron dan nyaman digunakan",
   },
 ];
 
@@ -43,12 +43,10 @@ export const BenefitsSection = () => {
           <h2 className="text-lg text-primary mb-2 tracking-wider">Benefits</h2>
 
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            Your Shortcut to Success
+            More than Listening
           </h2>
           <p className="text-xl text-muted-foreground mb-8">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non
-            ducimus reprehenderit architecto rerum similique facere odit
-            deleniti necessitatibus quo quae.
+            BeMusic dirancang untuk memberikan pengalaman mendengarkan musik yang melampaui sekadar pemutaran lagu. Setiap fitur membantu pengguna menikmati musik dengan cara yang lebih personal dan bermakna.
           </p>
         </div>
 

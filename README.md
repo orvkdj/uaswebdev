@@ -34,7 +34,7 @@
 1. Clone this repositoy:
 
 ```bash
-git clone https://github.com/nobruf/shadcn-landing-page.git
+git clone https://github.com/orvkdj/uaswebdev
 ```
 
 2. Go into project

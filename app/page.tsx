@@ -16,7 +16,7 @@ export const metadata = {
   description: "Free Shadcn landing page for developers",
   openGraph: {
     type: "website",
-    url: "https://github.com/nobruf/shadcn-landing-page.git",
+    url: "https://github.com/orvkdj/uaswebdev",
     title: "Shadcn - Landing template",
     description: "Free Shadcn landing page for developers",
     images: [
@@ -30,7 +30,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    site: "https://github.com/nobruf/shadcn-landing-page.git",
+    site: "https://github.com/orvkdj/uaswebdev",
     title: "Shadcn - Landing template",
     description: "Free Shadcn landing page for developers",
     images: [

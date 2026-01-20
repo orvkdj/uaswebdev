@@ -29,14 +29,14 @@ const plans: PlanProps[] = [
     popular: 0,
     price: 0,
     description:
-      "Lorem ipsum dolor sit, amet ipsum consectetur adipisicing elit.",
-    buttonText: "Start Free Trial",
+      "Cocok untuk pengguna yang ingin, mencoba Bemusic tanpa komitmen",
+    buttonText: "Coba sekarang",
     benefitList: [
-      "1 team member",
-      "1 GB storage",
-      "Upto 2 pages",
-      "Community support",
-      "AI assistance",
+      "Akses dasar pemutar musik",
+      "Rekomendasi lagu terbatas",
+      "lklan ringan",
+      "Sinkronisasi satu perangkat",
+      "Kualitas audio standar",
     ],
   },
   {
@@ -44,14 +44,14 @@ const plans: PlanProps[] = [
     popular: 1,
     price: 45,
     description:
-      "Lorem ipsum dolor sit, amet ipsum consectetur adipisicing elit.",
-    buttonText: "Get starterd",
+      "Solusi lengkap untuk kebutuhan, profesional dan kolaborasi skala besar.",
+    buttonText: "Coba Sekarang",
     benefitList: [
-      "4 team member",
-      "8 GB storage",
-      "Upto 6 pages",
-      "Priority support",
-      "AI assistance",
+      "Tanpa iklan",
+      "Rekomendasi cerdas berbasis mood",
+      "Sinkronisasi multi perangkat",
+      "Unduh musik untuk offline",
+      "Kualitas audio tinggi",
     ],
   },
   {
@@ -59,14 +59,14 @@ const plans: PlanProps[] = [
     popular: 0,
     price: 120,
     description:
-      "Lorem ipsum dolor sit, amet ipsum consectetur adipisicing elit.",
-    buttonText: "Contact US",
+      "Solusi lengkap untuk kebutuhan profesional dan kolaborasi skala besar.",
+    buttonText: "Hubungi Kami",
     benefitList: [
-      "10 team member",
-      "20 GB storage",
-      "Upto 10 pages",
-      "Phone & email support",
-      "AI assistance",
+      "Semua fitur premium",
+      "Manajemen akun terpusat",
+      "Dukungan Prioritas",
+      "Custom fitur sesuai kebutuhan",
+      "Kontrol dan analitik penggunaan",
     ],
   },
 ];
@@ -75,15 +75,15 @@ export const PricingSection = () => {
   return (
     <section className="container py-24 sm:py-32">
       <h2 className="text-lg text-primary text-center mb-2 tracking-wider">
-        Pricing
+        Paket
       </h2>
 
       <h2 className="text-3xl md:text-4xl text-center font-bold mb-4">
-        Get unlimitted access
+        Affordable Princing
       </h2>
 
       <h3 className="md:w-1/2 mx-auto text-xl text-center text-muted-foreground pb-14">
-        Lorem ipsum dolor sit amet consectetur adipisicing reiciendis.
+        
       </h3>
 
       <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 lg:gap-4">
